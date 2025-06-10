@@ -9,8 +9,8 @@ I really have no clue what im doing ¯\_(ᵕ—ᴗ—)_/¯ i just make little pr
 | ------------ | --------------------- | ---------------------------------| --------------
 | C/C++        | beginner/intermediate | Hell yeah                        | Very much
 | Java         | very very beginner    | Yeah I like it                   | I would but I have no RAM
-| Python       | beginner              | ehh, im more of a c++ guy        | None
-| GdScript     | beginner              | like if python was for game dev  | Uh, I dont user godot anymore
+| Python       | beginner              | ehh, im more of a c++ guy        | no
+| GdScript     | beginner              | like if python was for game dev  | Uh, I dont use godot anymore
 
 <br/>
 

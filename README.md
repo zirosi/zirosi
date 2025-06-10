@@ -23,3 +23,9 @@ but for real i make some stuff in c++
 Ranqo is a simple little random quote applacation written in c++
   
 [ranqo github page](github.com/zirosi/ranqo)
+
+### My dotfiles >:3
+
+I use arch btw, so here are my dotfiles
+
+[dotfiles GitHub page](github.com/zirosi/dotfiles)

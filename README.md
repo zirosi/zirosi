@@ -5,12 +5,12 @@ I really have no clue what im doing ¯\_(ᵕ—ᴗ—)_/¯ i just make little pr
 
 <br/>
 
-| Language     | How good am I at it   | Do I like it?
-| ------------ | --------------------- | ---------------
-| C/C++        | beginner/intermediate | Hell yeah
-| Java         | very very beginner    | Yeah I like it
-| Python       | beginner              | ehh, im more of a c++ guy
-| GdScript     | beginner              | like if python was for game dev
+| Language     | How good am I at it   | Do I like it?                    | Do I use it?
+| ------------ | --------------------- | ---------------------------------| --------------
+| C/C++        | beginner/intermediate | Hell yeah                        | Very much
+| Java         | very very beginner    | Yeah I like it                   | I would but I have no RAM
+| Python       | beginner              | ehh, im more of a c++ guy        | None
+| GdScript     | beginner              | like if python was for game dev  | Uh, I dont user godot anymore
 
 <br/>
 

@@ -3,6 +3,8 @@
 Hei im zirosi I code and do little projects with my friends or just solo :3
 I really have no clue what im doing ¯\_(ᵕ—ᴗ—)_/¯ i just make little projects here and there. Also I'm learning C++, it's pretty nice
 
+[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zirosi&layout=compact&theme=dark)](https://github.com/zirosi/#)
+
 <br/>
 
 | Language     | How good am I at it   | Do I like it?                    | Do I use it?

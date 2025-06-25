@@ -8,7 +8,8 @@ I really have no clue what im doing ¯\_(ᵕ—ᴗ—)_/¯ i just make little pr
 | Language     | How good am I at it   | Do I like it?                    | Do I use it?
 | ------------ | --------------------- | ---------------------------------| --------------
 | C/C++        | beginner/intermediate | Hell yeah                        | Very much
-| Java         | very very beginner    | A little too boilerplate               | I would but I have no RAM
+| Ruby         | beginner              | kinda yeah                       | Sometimes
+| Java         | very very beginner    | A little too boilerplate         | I would but I have no RAM
 | Python       | beginner              | ehh, im more of a c++ guy        | no
 | GdScript     | beginner              | like if python was for game dev  | Uh, I dont use godot anymore
 
